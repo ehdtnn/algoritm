@@ -1,3 +1,5 @@
+package test.search;
+
 import java.util.*;
 
 public class IceCream {
