@@ -1,4 +1,4 @@
-import java.util*;
+import java.util.*;
 
 public class DisjoinSetsCycle {
   // 노드의 개수(V)와 간선(Union 연산)의 개수(E)
